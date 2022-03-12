@@ -1,0 +1,15 @@
+{
+  "name": "confusion-front",
+  "version": "1.0.0",
+  "description": "A Frontend site for conFusion Restaurant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanket Sharan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
